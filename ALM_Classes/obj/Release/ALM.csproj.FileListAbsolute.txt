@@ -1,0 +1,15 @@
+D:\dados\sgq\loaders\ALM_Classes\bin\Release\ALM_Classes.dll
+D:\dados\sgq\loaders\ALM_Classes\bin\Release\ALM_Classes.pdb
+D:\dados\sgq\loaders\ALM_Classes\bin\Release\Classes.dll
+D:\dados\sgq\loaders\ALM_Classes\bin\Release\Oracle.DataAccess.dll
+D:\dados\sgq\loaders\ALM_Classes\bin\Release\edtFTPnet.dll
+D:\dados\sgq\loaders\ALM_Classes\bin\Release\Classes.pdb
+D:\dados\sgq\loaders\ALM_Classes\obj\Release\ALM.csprojResolveAssemblyReference.cache
+D:\dados\sgq\loaders\ALM_Classes\obj\Release\Interop.OTAREPORTLib.dll
+D:\dados\sgq\loaders\ALM_Classes\obj\Release\Interop.OTAXMLLib.dll
+D:\dados\sgq\loaders\ALM_Classes\obj\Release\Interop.SACLIENTLib.dll
+D:\dados\sgq\loaders\ALM_Classes\obj\Release\Interop.TDAPIOLELib.dll
+D:\dados\sgq\loaders\ALM_Classes\obj\Release\ALM.csproj.ResolveComReference.cache
+D:\dados\sgq\loaders\ALM_Classes\obj\Release\ALM.csproj.CoreCompileInputs.cache
+D:\dados\sgq\loaders\ALM_Classes\obj\Release\ALM_Classes.dll
+D:\dados\sgq\loaders\ALM_Classes\obj\Release\ALM_Classes.pdb

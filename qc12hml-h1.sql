@@ -1,0 +1,1 @@
+select PROJECT_NAME from qcsiteadmin_db3q.projects

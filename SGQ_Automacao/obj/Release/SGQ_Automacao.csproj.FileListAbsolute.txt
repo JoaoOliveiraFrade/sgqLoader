@@ -1,0 +1,11 @@
+D:\SGQ\Solucao\SGQ_Automacao\bin\Release\SGQ_Automacao.exe.config
+D:\SGQ\Solucao\SGQ_Automacao\bin\Release\SGQ_Automacao.exe
+D:\SGQ\Solucao\SGQ_Automacao\bin\Release\SGQ_Automacao.pdb
+D:\SGQ\Solucao\SGQ_Automacao\bin\Release\ALM_Classes.dll
+D:\SGQ\Solucao\SGQ_Automacao\bin\Release\Classes.dll
+D:\SGQ\Solucao\SGQ_Automacao\bin\Release\edtFTPnet.dll
+D:\SGQ\Solucao\SGQ_Automacao\bin\Release\ALM_Classes.pdb
+D:\SGQ\Solucao\SGQ_Automacao\bin\Release\Classes.pdb
+D:\SGQ\Solucao\SGQ_Automacao\obj\Release\SGQ_Automacao.csprojResolveAssemblyReference.cache
+D:\SGQ\Solucao\SGQ_Automacao\obj\Release\SGQ_Automacao.exe
+D:\SGQ\Solucao\SGQ_Automacao\obj\Release\SGQ_Automacao.pdb

@@ -1,0 +1,12 @@
+D:\SGQ\Solucao\SGQ_Automacao\bin\Debug\SGQ_Automacao.exe.config
+D:\SGQ\Solucao\SGQ_Automacao\bin\Debug\SGQ_Automacao.exe
+D:\SGQ\Solucao\SGQ_Automacao\bin\Debug\SGQ_Automacao.pdb
+D:\SGQ\Solucao\SGQ_Automacao\bin\Debug\ALM_Classes.dll
+D:\SGQ\Solucao\SGQ_Automacao\bin\Debug\Classes.dll
+D:\SGQ\Solucao\SGQ_Automacao\bin\Debug\edtFTPnet.dll
+D:\SGQ\Solucao\SGQ_Automacao\bin\Debug\ALM_Classes.pdb
+D:\SGQ\Solucao\SGQ_Automacao\bin\Debug\Classes.pdb
+D:\SGQ\Solucao\SGQ_Automacao\obj\Debug\SGQ_ALMA_Projetos.csprojResolveAssemblyReference.cache
+D:\SGQ\Solucao\SGQ_Automacao\obj\Debug\SGQ_Automacao.exe
+D:\SGQ\Solucao\SGQ_Automacao\obj\Debug\SGQ_Automacao.pdb
+D:\SGQ\Solucao\SGQ_Automacao\bin\Debug\Oracle.DataAccess.dll

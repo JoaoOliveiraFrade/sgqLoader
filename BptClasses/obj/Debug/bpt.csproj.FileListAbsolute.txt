@@ -1,0 +1,10 @@
+D:\dados\sgq\loaders\BptClasses\bin\Debug\BptClasses.dll
+D:\dados\sgq\loaders\BptClasses\bin\Debug\BptClasses.pdb
+D:\dados\sgq\loaders\BptClasses\bin\Debug\Classes.dll
+D:\dados\sgq\loaders\BptClasses\bin\Debug\Oracle.DataAccess.dll
+D:\dados\sgq\loaders\BptClasses\bin\Debug\edtFTPnet.dll
+D:\dados\sgq\loaders\BptClasses\bin\Debug\Classes.pdb
+D:\dados\sgq\loaders\BptClasses\obj\Debug\bpt.csprojResolveAssemblyReference.cache
+D:\dados\sgq\loaders\BptClasses\obj\Debug\bpt.csproj.CoreCompileInputs.cache
+D:\dados\sgq\loaders\BptClasses\obj\Debug\BptClasses.dll
+D:\dados\sgq\loaders\BptClasses\obj\Debug\BptClasses.pdb

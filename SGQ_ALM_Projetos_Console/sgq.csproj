@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C2C1D6F-2516-411F-A54F-619D9BA80527}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SGQ_ALM_Projetos_Console</RootNamespace>
+    <AssemblyName>SGQ_ALM_Projetos_Console</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="edtFTPnet">
+      <HintPath>C:\Users\r18838\Downloads\edtftpnet\edtftpnet-2.2.3\bin\edtFTPnet.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=2.112.3.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="OTAREPORTLib">
+      <Guid>{A0887853-C86E-11D5-9D7A-000102E0AC0C}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="OTAXMLLib">
+      <Guid>{22D084E1-C60F-11D4-9D5C-0001029DEBEB}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SACLIENTLib">
+      <Guid>{92FA7851-4564-47F8-A274-BFCECEF76544}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="TDAPIOLELib">
+      <Guid>{F645BD06-E1B4-4E6A-82FB-E97D027FD456}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ALM_Classes\alm.csproj">
+      <Project>{694a8120-fa29-42af-b398-16497b593d2b}</Project>
+      <Name>alm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BITI_Classes\biti.csproj">
+      <Project>{be6f3aac-1a1d-4c15-8b3b-526c77e29c28}</Project>
+      <Name>biti</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Classes\sgq.csproj">
+      <Project>{158c93a8-9cba-4626-b85d-db4564aefa18}</Project>
+      <Name>sgq</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sql\SGQ_Historico_CTs_Por_Status.sql" />
+    <Content Include="sql\Historico_Subprojeto.sql" />
+    <Content Include="sql\Detalha_Execucao.sql" />
+    <Content Include="sql\Insert_SGQ_Historico_Valores_Execucao_Teste.sql" />
+    <Content Include="sql\Insert_SGQ_Historico_Valores_Riscos.sql" />
+    <Content Include="sql\Insert_SGQ_Historico_Valores_Status_Projeto_Release.sql" />
+    <Content Include="sql\SGQ_Releases_Entregas_Indicadores.sql" />
+    <Content Include="sql\SGQ_Releases_Indicadores.sql" />
+    <Content Include="sql\Update_SGQ_Projects.sql" />
+    <Content Include="sql\SGQ_Projetos_Etapas.sql" />
+    <Content Include="sql\SGQ_Releases_Sistemas_Etapas.sql" />
+    <Content Include="sql\SGQ_Releases_Etapas.sql" />
+    <Content Include="sql\ALM_CTs_Etapa.sql" />
+    <Content Include="sql\ALM_CTs_Fabrica_Teste.sql" />
+    <Content Include="sql\ALM_CTs_Fabrica_Desenvolvimento.sql" />
+    <Content Include="sql\ALM_CTs_Qte_Reteste.sql" />
+    <Content Include="sql\ALM_Defeitos_Agente_Solucionador.sql" />
+    <Content Include="sql\ALM_Defeitos_Fabrica_Teste.sql" />
+    <Content Include="sql\ALM_Defeitos_Fabrica_Desenvolvimento.sql" />
+    <Content Include="sql\ALM_Defeitos_Ping_Pong.sql" />
+    <Content Include="sql\ALM_Defeitos_Aging.sql" />
+    <Content Include="sql\ALM_Defeitos_Qtd_Reopen.sql" />
+    <Content Include="sql\Insert_QC11_Cons_Execucao.sql" />
+    <Content Include="sql\TRG2017_UpdateDefects_Field_SistemaPastaCT.sql" />
+    <Content Include="sql\projectsALM11.sql" />
+    <Content Include="sql\projectsALM12.sql" />
+    <Content Include="sql\Update_SGQ_PulledChainHistoric.sql" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

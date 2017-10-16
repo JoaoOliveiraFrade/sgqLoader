@@ -1,0 +1,15 @@
+D:\dados\sgq\loaders\Classes\bin\Debug\Classes.dll
+D:\dados\sgq\loaders\Classes\bin\Debug\Classes.pdb
+D:\dados\sgq\loaders\Classes\bin\Debug\Oracle.DataAccess.dll
+D:\dados\sgq\loaders\Classes\bin\Debug\System.Net.Http.Formatting.dll
+D:\dados\sgq\loaders\Classes\bin\Debug\Newtonsoft.Json.dll
+D:\dados\sgq\loaders\Classes\bin\Debug\System.Web.Http.xml
+D:\dados\sgq\loaders\Classes\bin\Debug\System.Web.Http.SelfHost.xml
+D:\dados\sgq\loaders\Classes\bin\Debug\System.Web.Http.WebHost.xml
+D:\dados\sgq\loaders\Classes\bin\Debug\System.Net.Http.Formatting.xml
+D:\dados\sgq\loaders\Classes\obj\Debug\sgq.csprojResolveAssemblyReference.cache
+D:\dados\sgq\loaders\Classes\obj\Debug\Interop.TDAPIOLELib.dll
+D:\dados\sgq\loaders\Classes\obj\Debug\sgq.csproj.ResolveComReference.cache
+D:\dados\sgq\loaders\Classes\obj\Debug\sgq.csproj.CoreCompileInputs.cache
+D:\dados\sgq\loaders\Classes\obj\Debug\Classes.dll
+D:\dados\sgq\loaders\Classes\obj\Debug\Classes.pdb

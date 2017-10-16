@@ -1,0 +1,15 @@
+D:\SGQ\Solucao\ALM_Projetos_Console\bin\Release\ALM_Projetos_Console.exe.config
+D:\SGQ\Solucao\ALM_Projetos_Console\bin\Release\ALM_Projetos_Console.exe
+D:\SGQ\Solucao\ALM_Projetos_Console\bin\Release\ALM_Projetos_Console.pdb
+D:\SGQ\Solucao\ALM_Projetos_Console\bin\Release\ALM_Classes.dll
+D:\SGQ\Solucao\ALM_Projetos_Console\bin\Release\Classes.dll
+D:\SGQ\Solucao\ALM_Projetos_Console\bin\Release\ALM_Classes.pdb
+D:\SGQ\Solucao\ALM_Projetos_Console\bin\Release\Classes.pdb
+D:\SGQ\Solucao\ALM_Projetos_Console\obj\Release\ALM_Projetos_Console.csprojResolveAssemblyReference.cache
+D:\SGQ\Solucao\ALM_Projetos_Console\obj\Release\ALM_Projetos_Console.exe
+D:\SGQ\Solucao\ALM_Projetos_Console\obj\Release\ALM_Projetos_Console.pdb
+D:\SGQ\Solucao\ALM_Projetos_Console\obj\Release\Interop.OTAREPORTLib.dll
+D:\SGQ\Solucao\ALM_Projetos_Console\obj\Release\Interop.OTAXMLLib.dll
+D:\SGQ\Solucao\ALM_Projetos_Console\obj\Release\Interop.SACLIENTLib.dll
+D:\SGQ\Solucao\ALM_Projetos_Console\obj\Release\Interop.TDAPIOLELib.dll
+D:\SGQ\Solucao\ALM_Projetos_Console\obj\Release\ALM_Projetos_Console.csproj.ResolveComReference.cache
