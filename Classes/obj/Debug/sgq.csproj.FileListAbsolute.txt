@@ -13,3 +13,16 @@ D:\dados\sgq\loaders\Classes\obj\Debug\sgq.csproj.ResolveComReference.cache
 D:\dados\sgq\loaders\Classes\obj\Debug\sgq.csproj.CoreCompileInputs.cache
 D:\dados\sgq\loaders\Classes\obj\Debug\Classes.dll
 D:\dados\sgq\loaders\Classes\obj\Debug\Classes.pdb
+F:\oi\sgq\loader\Classes\bin\Debug\Classes.dll
+F:\oi\sgq\loader\Classes\bin\Debug\Classes.pdb
+F:\oi\sgq\loader\Classes\bin\Debug\System.Net.Http.Formatting.dll
+F:\oi\sgq\loader\Classes\bin\Debug\Newtonsoft.Json.dll
+F:\oi\sgq\loader\Classes\bin\Debug\System.Web.Http.xml
+F:\oi\sgq\loader\Classes\bin\Debug\System.Web.Http.SelfHost.xml
+F:\oi\sgq\loader\Classes\bin\Debug\System.Web.Http.WebHost.xml
+F:\oi\sgq\loader\Classes\bin\Debug\System.Net.Http.Formatting.xml
+F:\oi\sgq\loader\Classes\obj\Debug\sgq.csprojResolveAssemblyReference.cache
+F:\oi\sgq\loader\Classes\obj\Debug\sgq.csproj.ResolveComReference.cache
+F:\oi\sgq\loader\Classes\obj\Debug\sgq.csproj.CoreCompileInputs.cache
+F:\oi\sgq\loader\Classes\obj\Debug\Classes.dll
+F:\oi\sgq\loader\Classes\obj\Debug\Classes.pdb
