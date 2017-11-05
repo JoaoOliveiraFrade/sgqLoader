@@ -123,6 +123,9 @@ namespace sgq.alm_Projetos_Console
             //usuarios = new Usuarios(alm.Databases.ALM12);
             //usuarios.LoadData();
 
+            ALM_Defeitos_Ping_Pong();
+            ALM_Defeitos_Aging();
+
             TRG2017_LoadSistemaPastaCT();
         }
 
@@ -207,6 +210,7 @@ namespace sgq.alm_Projetos_Console
 
                 var projetos = new alm.Projetos(alm.Databases.ALM11, new alm.FieldsALM11().list);
                 projetos.loadDefectsTimes();
+
                 //projetos = new alm.Projetos(alm.Databases.ALM12, new FieldsALM12().list);
                 //projetos.loadDefectsTimes();
 
@@ -227,6 +231,7 @@ namespace sgq.alm_Projetos_Console
 
                 var projetos = new alm.Projetos(alm.Databases.ALM11, new alm.FieldsALM11().list);
                 projetos.loadDefectsTimes();
+
                 //projetos = new alm.Projetos(alm.Databases.ALM12, new FieldsALM12().list);
                 //projetos.loadDefectsTimes();
 
@@ -247,6 +252,7 @@ namespace sgq.alm_Projetos_Console
 
                 var projetos = new alm.Projetos(alm.Databases.ALM11, new alm.FieldsALM11().list);
                 projetos.loadDefectsTimes();
+
                 //projetos = new alm.Projetos(alm.Databases.ALM12, new FieldsALM12().list);
                 //projetos.loadDefectsTimes();
 
@@ -267,6 +273,7 @@ namespace sgq.alm_Projetos_Console
 
                 var projetos = new alm.Projetos(alm.Databases.ALM11, new alm.FieldsALM11().list);
                 projetos.loadDefectsTimes();
+
                 //projetos = new alm.Projetos(alm.Databases.ALM12, new FieldsALM12().list);
                 //projetos.loadDefectsTimes();
 
@@ -320,8 +327,6 @@ namespace sgq.alm_Projetos_Console
             TRG2017_LoadSistemaPastaCT();
 
             ALM_Defeitos_Qtd_Reopen();
-            ALM_Defeitos_Ping_Pong();
-            ALM_Defeitos_Aging();
             ALM_Defeitos_Agente_Solucionador();
 
             ALM_CTs_Qte_Reteste();

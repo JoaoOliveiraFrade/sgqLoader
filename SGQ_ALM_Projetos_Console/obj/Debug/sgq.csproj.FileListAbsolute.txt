@@ -18,7 +18,6 @@ D:\dados\sgq\loaders\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.CoreCompileIn
 D:\dados\sgq\loaders\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.exe
 D:\dados\sgq\loaders\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.pdb
 <<<<<<< HEAD
-<<<<<<< HEAD
 D:\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.exe.config
 D:\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.exe
 D:\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.pdb
@@ -39,7 +38,6 @@ D:\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.CoreCompileInputs.ca
 D:\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.exe
 D:\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.pdb
 =======
-=======
 >>>>>>> 190fc4827d13a3ac07fab88ba42e537399a069b6
 F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.exe.config
 F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.exe
@@ -55,7 +53,3 @@ F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.ResolveComReferen
 F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.CoreCompileInputs.cache
 F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.exe
 F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.pdb
-<<<<<<< HEAD
->>>>>>> 190fc4827d13a3ac07fab88ba42e537399a069b6
-=======
->>>>>>> 190fc4827d13a3ac07fab88ba42e537399a069b6

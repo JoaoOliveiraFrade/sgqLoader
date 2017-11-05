@@ -18,3 +18,12 @@ D:\sgq\loader\BptClasses\obj\Debug\bpt.csprojResolveAssemblyReference.cache
 D:\sgq\loader\BptClasses\obj\Debug\bpt.csproj.CoreCompileInputs.cache
 D:\sgq\loader\BptClasses\obj\Debug\BptClasses.dll
 D:\sgq\loader\BptClasses\obj\Debug\BptClasses.pdb
+F:\oi\sgq\loader\BptClasses\bin\Debug\BptClasses.dll
+F:\oi\sgq\loader\BptClasses\bin\Debug\BptClasses.pdb
+F:\oi\sgq\loader\BptClasses\bin\Debug\Classes.dll
+F:\oi\sgq\loader\BptClasses\bin\Debug\edtFTPnet.dll
+F:\oi\sgq\loader\BptClasses\bin\Debug\Classes.pdb
+F:\oi\sgq\loader\BptClasses\obj\Debug\bpt.csprojResolveAssemblyReference.cache
+F:\oi\sgq\loader\BptClasses\obj\Debug\bpt.csproj.CoreCompileInputs.cache
+F:\oi\sgq\loader\BptClasses\obj\Debug\BptClasses.dll
+F:\oi\sgq\loader\BptClasses\obj\Debug\BptClasses.pdb

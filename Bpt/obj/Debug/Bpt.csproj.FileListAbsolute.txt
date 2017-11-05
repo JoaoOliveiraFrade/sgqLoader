@@ -48,3 +48,15 @@ D:\sgq\loader\Bpt\obj\Debug\bpt.csprojResolveAssemblyReference.cache
 D:\sgq\loader\Bpt\obj\Debug\bpt.csproj.CoreCompileInputs.cache
 D:\sgq\loader\Bpt\obj\Debug\Bpt.exe
 D:\sgq\loader\Bpt\obj\Debug\Bpt.pdb
+F:\oi\sgq\loader\Bpt\bin\Debug\Bpt.exe.config
+F:\oi\sgq\loader\Bpt\bin\Debug\Bpt.exe
+F:\oi\sgq\loader\Bpt\bin\Debug\Bpt.pdb
+F:\oi\sgq\loader\Bpt\bin\Debug\BptClasses.dll
+F:\oi\sgq\loader\Bpt\bin\Debug\Classes.dll
+F:\oi\sgq\loader\Bpt\bin\Debug\edtFTPnet.dll
+F:\oi\sgq\loader\Bpt\bin\Debug\BptClasses.pdb
+F:\oi\sgq\loader\Bpt\bin\Debug\Classes.pdb
+F:\oi\sgq\loader\Bpt\obj\Debug\bpt.csprojResolveAssemblyReference.cache
+F:\oi\sgq\loader\Bpt\obj\Debug\bpt.csproj.CoreCompileInputs.cache
+F:\oi\sgq\loader\Bpt\obj\Debug\Bpt.exe
+F:\oi\sgq\loader\Bpt\obj\Debug\Bpt.pdb
