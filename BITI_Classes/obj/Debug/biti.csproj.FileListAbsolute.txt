@@ -10,6 +10,7 @@ D:\dados\sgq\loaders\BITI_Classes\obj\Debug\biti.csprojResolveAssemblyReference.
 D:\dados\sgq\loaders\BITI_Classes\obj\Debug\biti.csproj.CoreCompileInputs.cache
 D:\dados\sgq\loaders\BITI_Classes\obj\Debug\BITI_Classes.dll
 D:\dados\sgq\loaders\BITI_Classes\obj\Debug\BITI_Classes.pdb
+<<<<<<< HEAD
 D:\sgq\loader\BITI_Classes\bin\Debug\BITI_Classes.dll
 D:\sgq\loader\BITI_Classes\bin\Debug\BITI_Classes.pdb
 D:\sgq\loader\BITI_Classes\bin\Debug\ALM_Classes.dll
@@ -22,3 +23,16 @@ D:\sgq\loader\BITI_Classes\obj\Debug\biti.csprojResolveAssemblyReference.cache
 D:\sgq\loader\BITI_Classes\obj\Debug\biti.csproj.CoreCompileInputs.cache
 D:\sgq\loader\BITI_Classes\obj\Debug\BITI_Classes.dll
 D:\sgq\loader\BITI_Classes\obj\Debug\BITI_Classes.pdb
+=======
+F:\oi\sgq\loader\BITI_Classes\bin\Debug\BITI_Classes.dll
+F:\oi\sgq\loader\BITI_Classes\bin\Debug\BITI_Classes.pdb
+F:\oi\sgq\loader\BITI_Classes\bin\Debug\ALM_Classes.dll
+F:\oi\sgq\loader\BITI_Classes\bin\Debug\Classes.dll
+F:\oi\sgq\loader\BITI_Classes\bin\Debug\edtFTPnet.dll
+F:\oi\sgq\loader\BITI_Classes\bin\Debug\ALM_Classes.pdb
+F:\oi\sgq\loader\BITI_Classes\bin\Debug\Classes.pdb
+F:\oi\sgq\loader\BITI_Classes\obj\Debug\biti.csprojResolveAssemblyReference.cache
+F:\oi\sgq\loader\BITI_Classes\obj\Debug\biti.csproj.CoreCompileInputs.cache
+F:\oi\sgq\loader\BITI_Classes\obj\Debug\BITI_Classes.dll
+F:\oi\sgq\loader\BITI_Classes\obj\Debug\BITI_Classes.pdb
+>>>>>>> 190fc4827d13a3ac07fab88ba42e537399a069b6
