@@ -17,6 +17,7 @@ D:\dados\sgq\loaders\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.ResolveComRef
 D:\dados\sgq\loaders\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.CoreCompileInputs.cache
 D:\dados\sgq\loaders\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.exe
 D:\dados\sgq\loaders\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.pdb
+<<<<<<< HEAD
 D:\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.exe.config
 D:\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.exe
 D:\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.pdb
@@ -36,3 +37,19 @@ D:\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.ResolveComReference.
 D:\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.CoreCompileInputs.cache
 D:\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.exe
 D:\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.pdb
+=======
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.exe.config
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.exe
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\SGQ_ALM_Projetos_Console.pdb
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\ALM_Classes.dll
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\BITI_Classes.dll
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\Classes.dll
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\ALM_Classes.pdb
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\BITI_Classes.pdb
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\bin\Debug\Classes.pdb
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csprojResolveAssemblyReference.cache
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.ResolveComReference.cache
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\sgq.csproj.CoreCompileInputs.cache
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.exe
+F:\oi\sgq\loader\SGQ_ALM_Projetos_Console\obj\Debug\SGQ_ALM_Projetos_Console.pdb
+>>>>>>> 190fc4827d13a3ac07fab88ba42e537399a069b6
