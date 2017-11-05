@@ -137,7 +137,7 @@
     <Content Include="sql\ALM_Defeitos_Aging.sql" />
     <Content Include="sql\ALM_Defeitos_Qtd_Reopen.sql" />
     <Content Include="sql\Insert_QC11_Cons_Execucao.sql" />
-    <Content Include="sql\TRG2017_UpdateDefects_Field_SistemaPastaCT.sql" />
+    <Content Include="sql\TRG2017_LoadSistemaPastaCT.sql" />
     <Content Include="sql\projectsALM11.sql" />
     <Content Include="sql\projectsALM12.sql" />
     <Content Include="sql\Update_SGQ_PulledChainHistoric.sql" />

@@ -34,7 +34,7 @@ namespace sgq.alm_Projetos_Console
         static void Main(string[] args)
         {
 
-            loadBitiData();
+            // loadBitiData();
 
             if (args.Count<string>() > 0) {
                 if (args[0].ToUpper() == "-RunLateAtNight") {
@@ -105,6 +105,11 @@ namespace sgq.alm_Projetos_Console
 
             //Detalha_Execucao();
             //Historico_Subprojeto();
+
+            ALM_Defeitos_Fabrica_Desenvolvimento();
+            ALM_Defeitos_Fabrica_Teste();
+            ALM_CTs_Fabrica_Desenvolvimento();
+            ALM_CTs_Fabrica_Teste();
         }
 
         static private void RunAtAllHours() {
@@ -317,13 +322,9 @@ namespace sgq.alm_Projetos_Console
             ALM_Defeitos_Qtd_Reopen();
             ALM_Defeitos_Ping_Pong();
             ALM_Defeitos_Aging();
-            ALM_Defeitos_Fabrica_Desenvolvimento();
-            ALM_Defeitos_Fabrica_Teste();
             ALM_Defeitos_Agente_Solucionador();
 
             ALM_CTs_Qte_Reteste();
-            ALM_CTs_Fabrica_Desenvolvimento();
-            ALM_CTs_Fabrica_Teste();
             ALM_CTs_Etapa();
 
             //CALCULO DAS DATAS REALIZADAS
@@ -725,7 +726,7 @@ namespace sgq.alm_Projetos_Console
 
         //                         (case when exists
         //                                (   select top 1 1
-        //                                              from ALM_Historico_Alteracoesfields ht
+        //                                              from alm_historico_alteracoes_campos ht
         //                                              where 
         //                                                           ht.tabela = 'TESTCYCL' and 
         //                                                           ht.Campo = 'STATUS' and 

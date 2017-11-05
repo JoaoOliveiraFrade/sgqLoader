@@ -234,7 +234,7 @@ namespace sgq.alm {
                 delete ALM_Defeitos_Links where subprojeto + Entrega not in (select subprojeto + Entrega from alm_projetos where ativo = 'Y')
                 delete ALM_Defeitos_Tempos where subprojeto + Entrega not in (select subprojeto + Entrega from alm_projetos where ativo = 'Y')
                 delete ALM_Defeitos where subprojeto + Entrega not in (select subprojeto + Entrega from alm_projetos where ativo = 'Y')
-                delete ALM_Historico_Alteracoesfields where subprojeto + Entrega not in (select subprojeto + Entrega from alm_projetos where ativo = 'Y')
+                delete alm_historico_alteracoes_campos where subprojeto + Entrega not in (select subprojeto + Entrega from alm_projetos where ativo = 'Y')
                 delete ALM_Steps where subprojeto + Entrega not in (select subprojeto + Entrega from alm_projetos where ativo = 'Y')
                 delete ALM_Testes where subprojeto + Entrega not in (select subprojeto + Entrega from alm_projetos where ativo = 'Y')
                 "

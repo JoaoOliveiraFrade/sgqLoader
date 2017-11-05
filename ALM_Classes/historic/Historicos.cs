@@ -53,13 +53,13 @@ namespace sgq.alm {
             sqlMaker2Param.dataSource = @"{Esquema}.audit_properties inner join {Esquema}.audit_log on ap_action_id = au_action_id";
             sqlMaker2Param.dataSourceFilterCondition = @"upper(AU_ENTITY_TYPE) in ('TESTCYCL','BUG')";
 
-            this.sqlMaker2Param.targetSqlLastIdInserted = $"select max(id) from alm_historico_alteracoesfields where subprojeto='{projeto.Subprojeto}' and entrega='{projeto.Entrega}'";
+            this.sqlMaker2Param.targetSqlLastIdInserted = $"select max(id) from alm_historico_alteracoes_campos where subprojeto='{projeto.Subprojeto}' and entrega='{projeto.Entrega}'";
             this.sqlMaker2Param.targetSqlLastDateUpdate = $"select Historico_Incremental_Inicio from alm_projetos where subprojeto='{projeto.Subprojeto}' and entrega='{projeto.Entrega}'";
 
             this.sqlMaker2Param.dataSourceFilterConditionInsert = $" ap_property_id > {this.sqlMaker2Param.targetLastIdInserted}";
             this.sqlMaker2Param.dataSourceFilterConditionUpdate = $" to_char(au_time,'yy-mm-dd hh24:mi:ss') > '{this.sqlMaker2Param.targetLastDateUpdate}'";
 
-            sqlMaker2Param.targetTable = "ALM_Historico_Alteracoesfields";
+            sqlMaker2Param.targetTable = "alm_historico_alteracoes_campos";
 
             sqlMaker2Param.typeDB = "ORACLE";
         }
@@ -124,7 +124,7 @@ namespace sgq.alm {
                 ");
 
             } else if (typeUpdate == TypeUpdate.Full) {
-                SGQConn.Executar($"delete ALM_Historico_Alteracoesfields where subprojeto='{projeto.Subprojeto}' and entrega='{projeto.Entrega}'");
+                SGQConn.Executar($"delete alm_historico_alteracoes_campos where subprojeto='{projeto.Subprojeto}' and entrega='{projeto.Entrega}'");
 
                 string Sql_Insert = sqlMaker2.Get_Oracle_Insert().Replace("{Esquema}", projeto.Esquema).Replace("{Subprojeto}", projeto.Subprojeto).Replace("{Entrega}", projeto.Entrega);
                 OracleDataReader DataReader_Insert = ALMConn.Get_DataReader(Sql_Insert);
@@ -156,7 +156,7 @@ namespace sgq.alm {
         //    {
         //        Connection SGQConn = new Connection();
         //        sqlMaker2Param.targetLastIdInserted =
-        //            SGQConn.Get_String(string.Format("Select Max(Id) from ALM_Historico_Alteracoesfields where Subprojeto='{0}' and Entrega='{1}'", projeto.Subprojeto, projeto.Entrega));
+        //            SGQConn.Get_String(string.Format("Select Max(Id) from alm_historico_alteracoes_campos where Subprojeto='{0}' and Entrega='{1}'", projeto.Subprojeto, projeto.Entrega));
         //        SGQConn.Dispose();
 
         //        if (sqlMaker2Param.targetLastIdInserted == "" || sqlMaker2Param.targetLastIdInserted == null)

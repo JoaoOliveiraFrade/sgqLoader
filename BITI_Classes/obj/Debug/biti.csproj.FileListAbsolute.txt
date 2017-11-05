@@ -10,3 +10,15 @@ D:\dados\sgq\loaders\BITI_Classes\obj\Debug\biti.csprojResolveAssemblyReference.
 D:\dados\sgq\loaders\BITI_Classes\obj\Debug\biti.csproj.CoreCompileInputs.cache
 D:\dados\sgq\loaders\BITI_Classes\obj\Debug\BITI_Classes.dll
 D:\dados\sgq\loaders\BITI_Classes\obj\Debug\BITI_Classes.pdb
+D:\sgq\loader\BITI_Classes\bin\Debug\BITI_Classes.dll
+D:\sgq\loader\BITI_Classes\bin\Debug\BITI_Classes.pdb
+D:\sgq\loader\BITI_Classes\bin\Debug\ALM_Classes.dll
+D:\sgq\loader\BITI_Classes\bin\Debug\Classes.dll
+D:\sgq\loader\BITI_Classes\bin\Debug\Oracle.DataAccess.dll
+D:\sgq\loader\BITI_Classes\bin\Debug\edtFTPnet.dll
+D:\sgq\loader\BITI_Classes\bin\Debug\ALM_Classes.pdb
+D:\sgq\loader\BITI_Classes\bin\Debug\Classes.pdb
+D:\sgq\loader\BITI_Classes\obj\Debug\biti.csprojResolveAssemblyReference.cache
+D:\sgq\loader\BITI_Classes\obj\Debug\biti.csproj.CoreCompileInputs.cache
+D:\sgq\loader\BITI_Classes\obj\Debug\BITI_Classes.dll
+D:\sgq\loader\BITI_Classes\obj\Debug\BITI_Classes.pdb

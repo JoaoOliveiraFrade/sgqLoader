@@ -271,7 +271,7 @@ namespace sgq.alm
 		                df.Entrega,
 		                df.Defeito,
 		                case when not exists (Select top 1 1
-								                From ALM_Historico_Alteracoesfields hac 
+								                From alm_historico_alteracoes_campos hac 
 								                where hac.Tabela = 'TESTCYCL' and 
 									                hac.Campo = '(EVIDÊNCIA) VALIDAÇÃO CLIENTE' and 
 									                hac.Novo_Valor = 'LIBERADO PARA VALIDAÇÃO' and 
@@ -282,7 +282,7 @@ namespace sgq.alm
 						                then 'TI'
 						                else case when (DATEDIFF (day, Convert(Datetime, df.Dt_Inicial, 5), 
 													                Convert(Datetime, ISNULL((select Top 1 Dt_Alteracao
-																			                from ALM_Historico_Alteracoesfields hac 
+																			                from alm_historico_alteracoes_campos hac 
 																			                where hac.Tabela = 'TESTCYCL' and 
 																					                hac.Campo = '(EVIDÊNCIA) VALIDAÇÃO CLIENTE' and 
 																					                hac.Novo_Valor = 'LIBERADO PARA VALIDAÇÃO' and 

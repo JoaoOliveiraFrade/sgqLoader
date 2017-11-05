@@ -48,7 +48,7 @@ from
 
                 (case when exists
                     (   select top 1 1
-                                    from ALM_Historico_Alteracoesfields ht WITH (NOLOCK)
+                                    from alm_historico_alteracoes_campos ht WITH (NOLOCK)
                                     where 
                                                 ht.tabela = 'TESTCYCL' and 
                                                 ht.Campo = 'STATUS' and 

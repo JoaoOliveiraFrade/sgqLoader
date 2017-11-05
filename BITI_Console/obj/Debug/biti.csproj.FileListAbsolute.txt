@@ -1,0 +1,13 @@
+D:\sgq\loader\BITI_Console\bin\Debug\BITI_Console.exe.config
+D:\sgq\loader\BITI_Console\bin\Debug\BITI_Console.exe
+D:\sgq\loader\BITI_Console\bin\Debug\BITI_Console.pdb
+D:\sgq\loader\BITI_Console\bin\Debug\BITI_Classes.dll
+D:\sgq\loader\BITI_Console\bin\Debug\Classes.dll
+D:\sgq\loader\BITI_Console\bin\Debug\Oracle.DataAccess.dll
+D:\sgq\loader\BITI_Console\bin\Debug\edtFTPnet.dll
+D:\sgq\loader\BITI_Console\bin\Debug\BITI_Classes.pdb
+D:\sgq\loader\BITI_Console\bin\Debug\Classes.pdb
+D:\sgq\loader\BITI_Console\obj\Debug\biti.csprojResolveAssemblyReference.cache
+D:\sgq\loader\BITI_Console\obj\Debug\biti.csproj.CoreCompileInputs.cache
+D:\sgq\loader\BITI_Console\obj\Debug\BITI_Console.exe
+D:\sgq\loader\BITI_Console\obj\Debug\BITI_Console.pdb

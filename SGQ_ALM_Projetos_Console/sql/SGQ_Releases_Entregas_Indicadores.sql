@@ -194,7 +194,7 @@ select
 			
 			(select max(convert(datetime, h.Dt_Alteracao,5))
 			from alm_cts cts WITH (NOLOCK)
-				inner join ALM_Historico_Alteracoesfields h WITH (NOLOCK)
+				inner join alm_historico_alteracoes_campos h WITH (NOLOCK)
 					on h.subprojeto = cts.subprojeto and
 						h.entrega = cts.entrega and
 						h.Tabela = 'TESTCYCL' and 
@@ -210,7 +210,7 @@ select
 
 			(select max(convert(datetime, h.Dt_Alteracao,5))
 			from alm_cts cts WITH (NOLOCK)
-				inner join ALM_Historico_Alteracoesfields h WITH (NOLOCK)
+				inner join alm_historico_alteracoes_campos h WITH (NOLOCK)
 					on h.subprojeto = cts.subprojeto and
 						h.entrega = cts.entrega and
 						h.Tabela_Id = cts.ct and
@@ -235,7 +235,7 @@ select
 
 			(select max(convert(datetime, h.Dt_Alteracao,5))
 			from alm_cts cts WITH (NOLOCK)
-				inner join ALM_Historico_Alteracoesfields h WITH (NOLOCK)
+				inner join alm_historico_alteracoes_campos h WITH (NOLOCK)
 					on h.subprojeto = cts.subprojeto and
 						h.entrega = cts.entrega and
 						h.Tabela_Id = cts.ct and

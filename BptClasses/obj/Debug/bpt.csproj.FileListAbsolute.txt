@@ -8,3 +8,13 @@ D:\dados\sgq\loaders\BptClasses\obj\Debug\bpt.csprojResolveAssemblyReference.cac
 D:\dados\sgq\loaders\BptClasses\obj\Debug\bpt.csproj.CoreCompileInputs.cache
 D:\dados\sgq\loaders\BptClasses\obj\Debug\BptClasses.dll
 D:\dados\sgq\loaders\BptClasses\obj\Debug\BptClasses.pdb
+D:\sgq\loader\BptClasses\bin\Debug\BptClasses.dll
+D:\sgq\loader\BptClasses\bin\Debug\BptClasses.pdb
+D:\sgq\loader\BptClasses\bin\Debug\Classes.dll
+D:\sgq\loader\BptClasses\bin\Debug\Oracle.DataAccess.dll
+D:\sgq\loader\BptClasses\bin\Debug\edtFTPnet.dll
+D:\sgq\loader\BptClasses\bin\Debug\Classes.pdb
+D:\sgq\loader\BptClasses\obj\Debug\bpt.csprojResolveAssemblyReference.cache
+D:\sgq\loader\BptClasses\obj\Debug\bpt.csproj.CoreCompileInputs.cache
+D:\sgq\loader\BptClasses\obj\Debug\BptClasses.dll
+D:\sgq\loader\BptClasses\obj\Debug\BptClasses.pdb
